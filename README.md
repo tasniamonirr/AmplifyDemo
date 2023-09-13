@@ -1,0 +1,2 @@
+# AmplifyDemo
+Interactive Math Demo
